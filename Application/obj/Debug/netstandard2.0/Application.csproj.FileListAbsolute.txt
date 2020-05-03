@@ -1,0 +1,14 @@
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\SocialMediaApp\Application\obj\Debug\netstandard2.0\Application.pdb
